@@ -3,6 +3,9 @@
 ## Example SAS Datasets
 http://www.principlesofeconometrics.com/sas.htm
 
+## Description of SAS7BDAT format
+https://cran.r-project.org/web/packages/sas7bdat/vignettes/sas7bdat.pdf
+
 ## Open source implementation of SAS7BDAT reader
 **Java** https://github.com/epam/parso/
 
