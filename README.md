@@ -20,6 +20,9 @@ https://github.com/reikoch/testfiles/blob/master/binary.sas7bdat
 ## Description of SAS7BDAT format
 https://cran.r-project.org/web/packages/sas7bdat/vignettes/sas7bdat.pdf
 
+## Free SAS viewer
+http://www.oview.co.uk/dsview/
+
 ## Open source implementation of SAS7BDAT reader
 **Java** https://github.com/epam/parso/
 
