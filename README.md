@@ -24,6 +24,8 @@ https://cran.r-project.org/web/packages/sas7bdat/vignettes/sas7bdat.pdf
 http://www.oview.co.uk/dsview/
 
 ## Open source implementation of SAS7BDAT reader
+**Julia** https://github.com/tk3369/SASLib.jl
+
 **Java** https://github.com/epam/parso/
 
 **Python** https://github.com/pandas-dev/pandas/blob/v0.21.0/pandas/io/sas/sasreader.py#L8-L70
