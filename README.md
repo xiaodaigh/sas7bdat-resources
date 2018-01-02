@@ -7,6 +7,8 @@ https://github.com/reikoch/testfiles/
 
 https://www.census.gov/programs-surveys/ahs/data/2013/ahs-2013-public-use-file--puf-/ahs-2013-national-public-use-file--puf-.html
 
+https://github.com/tk3369/SASLib.jl/tree/master/test
+
 ### Char files
 http://www2.census.gov/programs-surveys/ahs/2002/AHS_2002_Value_Label_Package.zip
 
