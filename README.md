@@ -35,3 +35,9 @@ http://www.oview.co.uk/dsview/
 **Python** https://github.com/pandas-dev/pandas/blob/v0.21.0/pandas/io/sas/sasreader.py#L8-L70
 
 **C** https://github.com/WizardMac/ReadStat/tree/master/src/sas
+
+## Commercial SAS products by non-SAS companies
+
+https://www.dullesresearch.com/products/
+
+https://www.worldprogramming.com/products/wps
