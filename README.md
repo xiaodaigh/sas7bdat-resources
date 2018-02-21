@@ -36,6 +36,8 @@ http://www.oview.co.uk/dsview/
 
 **C** https://github.com/WizardMac/ReadStat/tree/master/src/sas
 
+**R/Spark** https://github.com/bnosac/spark.sas7bdat
+
 ## Commercial products by non-SAS companies
 
 https://www.dullesresearch.com/products/
