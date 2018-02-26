@@ -38,6 +38,8 @@ http://www.oview.co.uk/dsview/
 
 **R/Spark** https://github.com/bnosac/spark.sas7bdat
 
+**Go** https://github.com/kshedden/datareader
+
 ## Commercial products by non-SAS companies
 
 https://www.dullesresearch.com/products/
