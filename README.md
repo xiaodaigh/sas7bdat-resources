@@ -21,6 +21,9 @@ http://www2.census.gov/programs-surveys/ahs/2004/AHS_2004_Value_Labels_Package.z
 https://github.com/tidyverse/haven/files/707016/utl_compressed_r.zip
 
 ### Binary compressed
+
+https://github.com/WizardMac/ReadStat/files/5132552/weigth2.zip
+
 https://github.com/reikoch/testfiles (not sure now)
 
 https://github.com/reikoch/testfiles/blob/master/binary.sas7bdat ( no longer available)
