@@ -33,6 +33,7 @@ https://cran.r-project.org/web/packages/sas7bdat/vignettes/sas7bdat.pdf
 
 ## Free SAS viewer
 http://www.oview.co.uk/dsview/
+https://xantorohara.github.io/rocket-table/
 
 ## Open source implementation of SAS7BDAT reader
 **Julia** https://github.com/tk3369/SASLib.jl
