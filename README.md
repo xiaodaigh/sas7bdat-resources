@@ -13,6 +13,8 @@ https://github.com/tk3369/SASLib.jl/tree/master/test
 
 https://github.com/ppham27/sas_to_csv
 
+https://catalog.data.gov/dataset/private-school-universe-survey-2017-18
+
 ### Char files
 http://www2.census.gov/programs-surveys/ahs/2002/AHS_2002_Value_Label_Package.zip
 
