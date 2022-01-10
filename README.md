@@ -43,6 +43,8 @@ http://www.oview.co.uk/dsview/
 
 **Python** https://github.com/pandas-dev/pandas/blob/v0.21.0/pandas/io/sas/sasreader.py#L8-L70
 
+**C++** not yet tried https://github.com/olivia76/cpp-sas7bdat
+
 **C** https://github.com/WizardMac/ReadStat/tree/master/src/sas
 
 **C** https://github.com/ppham27/sas_to_csv
